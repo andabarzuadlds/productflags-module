@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>productflags</name>
+    <displayName><![CDATA[Agregar Flags a Productos m&aacute;s Vendidos]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Con este modulo se crear&aacute; una nueva flag para los productos m&aacute;s vendidos de la web.]]></description>
+    <author><![CDATA[Andr&eacute;s Abarz&uacute;a]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[¿Estas seguro de Desinstalar este Modulo?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
